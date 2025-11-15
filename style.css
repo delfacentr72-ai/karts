@@ -1,0 +1,43 @@
+.btn{
+color: rgb(159, 151, 170);
+border: 2px solid rgb(145, 110, 125);
+border-radius: 8px ;
+cursor: pointer;
+padding: 19px 10px;
+}
+.btn:hover:hover{
+background-color: aliceblue;
+transform: scale(1.2);
+}    
+.block{
+    background-color: cornflowerblue;
+    width: 400px;
+    height: 500px;
+    margin-top: 30px;
+    
+}
+.str{
+    background-color: bisque;
+width:100px;
+height: 100px;
+
+
+}
+.info{
+width: 88px;
+border: 2px solid rgb(117, 44, 44);
+
+/* 
+padding: 10px; */
+/* padding-top: 12px; */
+padding: 15px 30px 100px 20px;
+margin: 10px 29px 87px 100px;
+}
+
+
+
+
+
+
+
+
